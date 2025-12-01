@@ -26,7 +26,7 @@ Here are a few of my most meaningful repositories — each demonstrates a differ
 
 | Project | What It Does / What I Learned |
 |--------|------------------------------|
-| **NextPlay-AI** | A full-stack app that uses a trained regression model to predict future performances of NBA players. Demonstrates data analysis, model training, and full-stack integration (backend + frontend + database). |
+| **NextPlay** | A full-stack app that uses a trained regression model to predict future performances of NBA players. Demonstrates data analysis, model training, and full-stack integration (backend + frontend + database). |
 | **ResuRAY** | AI-powered resume scoring and job-description matching platform using OpenAI. Showcases ability to work with modern AI/ML APIs, build web services, and tackle real-world workflows. |
 
 *(See the pinned repos on my profile for more details — each repo has a README with setup & usage instructions.)*
