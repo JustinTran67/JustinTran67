@@ -1,4 +1,4 @@
-# Hi there 👋 I’m Justin Tran
+# Hi there 👋 I’m Justin
 
 Aspiring Software / AI Engineer | Computer Science (B.S.) at UCSC  
 Based in the Bay Area · Currently open to internship
