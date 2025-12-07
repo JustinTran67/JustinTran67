@@ -1,7 +1,7 @@
 # Hi there 👋 I’m Justin
 
 Aspiring Software / AI Engineer | Computer Science (B.S.) at UCSC  
-Based in the Bay Area · Currently open to internship
+Based in the Bay Area · Currently open to any opportunities!
 
 ---
 
@@ -11,12 +11,32 @@ I love building data-driven applications and exploring the intersection of AI/ML
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-- **Languages:** Python · Java · JavaScript · SQL  
-- **Web / Backend:** Django / REST APIs, SQL / relational DBs  
-- **AI / ML:** Data analysis, regression modeling, integrations with ML tools  
-- **Other tools:** Git / GitHub, GitHub Actions, basic CI/CD, documentation & README-driven projects  
+<p align="left">
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+  <!-- Django -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</p>
 
 ---
 
@@ -24,7 +44,7 @@ I love building data-driven applications and exploring the intersection of AI/ML
 
 Here are a few of my most meaningful repositories — each demonstrates a different area of strength (backend, full-stack, AI/data).  
 
-| Project | What It Does / What I Learned |
+| Project | What It Does |
 |--------|------------------------------|
 | **NextPlay** | A full-stack app that uses a trained regression model to predict future performances of NBA players. Demonstrates data analysis, model training, and full-stack integration (backend + frontend + database). |
 | **ResuRAY** | AI-powered resume scoring and job-description matching platform using OpenAI. Showcases ability to work with modern AI/ML APIs, build web services, and tackle real-world workflows. |
@@ -33,14 +53,7 @@ Here are a few of my most meaningful repositories — each demonstrates a differ
 
 ---
 
-## 📚 What I’m Learning / Interested In
-
-- Diving deeper into Machine Learning / AI — modeling, evaluation, and building intelligent applications  
-- Backend and API development at scale (performance, reliability, clean architecture)  
-
----
-
-## 📫 How to Reach Me
+## 📫 Reach Me Via
 
 - LinkedIn: [linkedin.com/in/justin-tran-902938355](https://www.linkedin.com/in/justin-tran-902938355)  
 - GitHub: [@JustinTran67](https://github.com/JustinTran67)  
