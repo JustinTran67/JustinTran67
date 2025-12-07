@@ -18,9 +18,6 @@ I love building data-driven applications and exploring the intersection of AI/ML
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-  <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
@@ -55,9 +52,5 @@ Here are a few of my most meaningful repositories — each demonstrates a differ
 
 ## 📫 Reach Me Via
 
-- LinkedIn: [linkedin.com/in/justin-tran-902938355](https://www.linkedin.com/in/justin-tran-902938355)  
-- GitHub: [@JustinTran67](https://github.com/JustinTran67)  
+- LinkedIn: [linkedin.com/in/justin-tran-902938355](https://www.linkedin.com/in/justin-tran-902938355)
 - Email: justinttran06@gmail.com
----
-
-Feel free to explore my projects, and I’d love to connect if you see a fit for collaboration or opportunities.  
