@@ -1,11 +1,9 @@
-# Hi there 👋 I’m Justin
+# Hi 🙋‍♂️ I’m Justin
 
-Aspiring Software / AI Engineer | Computer Science (B.S.) at UCSC  
+Computer Science (B.S.) Student at UCSC  
 Based in the Bay Area · Currently open to any opportunities!
 
 ---
-
-## 🎯 What I’m About
 
 I love building data-driven applications and exploring the intersection of AI/ML and full-stack development. Whether it's designing a predictive model, building a web interface, or integrating a database — I enjoy projects that let me solve real problems with code, and learn new technologies along the way.
 
@@ -37,16 +35,12 @@ I love building data-driven applications and exploring the intersection of AI/ML
 
 ---
 
-## 🚀 Featured Projects
-
-Here are a few of my most meaningful repositories — each demonstrates a different area of strength (backend, full-stack, AI/data).  
+## 🚀 Featured Projects 
 
 | Project | What It Does |
 |--------|------------------------------|
 | **NextPlay** | A full-stack app that uses a trained regression model to predict future performances of NBA players. Demonstrates data analysis, model training, and full-stack integration (backend + frontend + database). |
 | **ResuRAY** | AI-powered resume scoring and job-description matching platform using OpenAI. Showcases ability to work with modern AI/ML APIs, build web services, and tackle real-world workflows. |
-
-*(See the pinned repos on my profile for more details — each repo has a README with setup & usage instructions.)*
 
 ---
 
